@@ -1,2 +1,2 @@
 # Neural-ODE
-Implementation of Neural ODEs from scratch, as presented in the paper "Neural Ordinary Differential Equations" by Chen et al., loosely inspired by the work of msurtsukov.
+From-scratch implementation of Neural ODEs ("Neural Ordinary Differential Equations" by Chen et al., 2018), loosely inspired by the work of msurtsukov.
